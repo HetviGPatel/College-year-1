@@ -6,11 +6,11 @@ These projects are made using basics of **JAVA**
 
 
 2.  TRAVEL AGENCY SYSTEM ::--
->    It allows users to view available trips, book trips with multiple tickets, and display booked trips. Key features include dynamic updates of availability and total cost calculation.
+>    It allows users to view available trips, book trips with multiple tickets, and display booked trips. Key features include dynamic updates of availability and total cost calculation.(Travel.java)
 
 
 3. SALES AND CUSTOMERS ENGAGEMENT PLATFORM ::--
->   It features a JavaFX-based GUI, a Binary Search Tree (BST) for product management,  a Linked List for sales associations in Java with MySQL integration. The system supports client demand management, dynamic deal-making, and report generation.
+>   It features a JavaFX-based GUI, a Binary Search Tree (BST) for product management,  a Linked List for sales associations in Java with MySQL integration. The system supports client demand management, dynamic deal-making, and report generation. (group.java, MultiLevelNavigation.java, sales_rep.java, stylishLoginApp.java)
 
 
 4. METRO MANAGEMENT SYSTEM ::--
